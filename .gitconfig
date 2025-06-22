@@ -1,0 +1,3 @@
+[remote "origin"]
+    url = https://cemilgs07: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@github.com/Cemilgs07/Casper.Case.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
