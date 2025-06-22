@@ -1,0 +1,74 @@
+﻿@model CreateProductDto
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <div class="row">
+        <!-- Basic Layout -->
+        <div class="col-xxl">
+            <div class="card mb-4">
+                <div class="card-header d-flex align-items-center justify-content-between">
+                    <h5 class="mb-0">Yeni Ürün Ekleme Sayfası</h5>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="row mb-3">
+
+
+                            <label class="col-sm-2 col-form-label" for="basic-default-name">Ürün Adı</label>
+                            <div class="col-sm-10">
+                                <input type="text" asp-for="Name" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <label class="col-sm-2 col-form-label" for="basic-default-name">Ürün Fiyatı</label>
+                            <div class="col-sm-10">
+                                <input type="text" asp-for="Price" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <label class="col-sm-2 col-form-label" for="basic-default-name">Ürün Stok Sayısı</label>
+                            <div class="col-sm-10">
+                                <input type="text" asp-for="StokCount" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <label class="col-sm-2 col-form-label" for="basic-default-name">Durum</label>
+                            <div class="col-sm-10">
+                                <select asp-for="IsActive" class="form-select">
+                                    <option value="true">Aktif</option>
+                                    <option value="false">Pasif</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <label class="col-sm-2 col-form-label" for="basic-default-name">Ürün Kategori</label>
+                            <div class="col-sm-10">
+
+                                <select asp-for="CategoryId" class="form-select"
+                                        asp-items="@(new SelectList(Model.Categories, "Id", "Name"))">
+                                    <option value="">-- Kategori Seçin --</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row justify-content-end">
+                            <div class="col-sm-10">
+                                <button class="btn btn-primary">Ürünü Ekle</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@if (Model.Categories == null || !Model.Categories.Any())
+{
+    <div class="alert alert-warning">
+        Kategori listesi yüklenemedi. Lütfen yöneticinize başvurun.
+    </div>
+}
