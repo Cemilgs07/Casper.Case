@@ -1,0 +1,12 @@
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\bin\Debug\net8.0\CasperUI.Shared.deps.json
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\bin\Debug\net8.0\CasperUI.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\bin\Debug\net8.0\CasperUI.Shared.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.AssemblyInfoInputs.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.AssemblyInfo.cs
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\refint\CasperUI.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\ref\CasperUI.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\CasperUI.Shared\obj\Debug\net8.0\CasperUI.Shared.sourcelink.json

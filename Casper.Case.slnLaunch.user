@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Case.API\\Case.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Casper.UILayer\\Casper.UILayer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

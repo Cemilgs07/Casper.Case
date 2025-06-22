@@ -1,0 +1,16 @@
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\bin\Debug\net8.0\Case.Domain.deps.json
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\bin\Debug\net8.0\Case.Domain.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\bin\Debug\net8.0\Case.Domain.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\bin\Debug\net8.0\Case.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\bin\Debug\net8.0\Case.Shared.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.csproj.AssemblyReference.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.AssemblyInfoInputs.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.AssemblyInfo.cs
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Dom.FA130F71.Up2Date
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\refint\Case.Domain.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\ref\Case.Domain.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Domain\obj\Debug\net8.0\Case.Domain.sourcelink.json

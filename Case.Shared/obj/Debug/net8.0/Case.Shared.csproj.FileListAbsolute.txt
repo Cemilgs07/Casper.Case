@@ -1,0 +1,13 @@
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\bin\Debug\net8.0\Case.Shared.deps.json
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\bin\Debug\net8.0\Case.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\bin\Debug\net8.0\Case.Shared.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.csproj.AssemblyReference.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.AssemblyInfoInputs.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.AssemblyInfo.cs
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\refint\Case.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.pdb
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\ref\Case.Shared.dll
+C:\Users\Ph Yazilim\Desktop\seda_odev\Casper.Case\Case.Shared\obj\Debug\net8.0\Case.Shared.sourcelink.json
