@@ -24,6 +24,7 @@ namespace Casper.UILayer.Controllers
         [HttpGet]
         public async Task<IActionResult> UpdateCategory(Guid id)
         {
+            //
             var category = await GetItem<UpdateCategoryDto>($"Category/GetById/{id}");
 
             if (category == null)
