@@ -5588,11 +5588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\Casper.UILayer\\Casper.UILayer.csproj",
+      "projectUniqueName": "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\Casper.UILayer\\Casper.UILayer.csproj",
       "projectName": "Casper.UILayer",
-      "projectPath": "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\Casper.UILayer\\Casper.UILayer.csproj",
+      "projectPath": "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\Casper.UILayer\\Casper.UILayer.csproj",
       "packagesPath": "C:\\Users\\Ph Yazilim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\Casper.UILayer\\obj\\",
+      "outputPath": "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\Casper.UILayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5614,8 +5614,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\CasperUI.Shared\\CasperUI.Shared.csproj": {
-              "projectPath": "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\CasperUI.Shared\\CasperUI.Shared.csproj"
+            "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\CasperUI.Shared\\CasperUI.Shared.csproj": {
+              "projectPath": "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\CasperUI.Shared\\CasperUI.Shared.csproj"
             }
           }
         }

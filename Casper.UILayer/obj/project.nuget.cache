@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qU29FtKi90Y=",
+  "dgSpecHash": "y45TYBgNF7U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\Casper.UILayer\\Casper.UILayer.csproj",
+  "projectFilePath": "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\Casper.UILayer\\Casper.UILayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ph Yazilim\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Ph Yazilim\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

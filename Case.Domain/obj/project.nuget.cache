@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SPvf0JGCUbg=",
+  "dgSpecHash": "F3i/7i1ZxOY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ph Yazilim\\Desktop\\seda_odev\\Casper.Case\\Case.Domain\\Case.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Ph Yazilim\\Desktop\\Casper.Case\\Case.Domain\\Case.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ph Yazilim\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Ph Yazilim\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
