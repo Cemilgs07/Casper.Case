@@ -16,7 +16,7 @@ namespace Case.API.Controllers
         [HttpPost("Create")]
         public async Task<IActionResult> CreateCategory([FromBody] CreateCategoryDto dto)
         {
-
+            // başarılya test edildi.
             if (!ModelState.IsValid)
             {
              
